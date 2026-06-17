@@ -103,7 +103,7 @@ The system features automated alerts to keep you informed of environmental chang
 * **Custom Alerts:** Triggered based on user-defined threshold values.
 <img width="1080" height="506" alt="cloudbme_real-time_data" src="https://github.com/user-attachments/assets/e8f0592e-4432-440a-9ff7-8ceb18dcb33e" />
 
-<img width="790" height="1599" alt="cloudebme_alert_notification" src="https://github.com/user-attachments/assets/ffcce103-7fb6-4c9f-bee7-44114afd9bf4" />
+<img width="250" height="400" alt="cloudebme_alert_notification" src="https://github.com/user-attachments/assets/ffcce103-7fb6-4c9f-bee7-44114afd9bf4" />
 
 ---
 
