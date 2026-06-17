@@ -75,8 +75,8 @@ Environmental data is collected by the BME280 sensor, processed by the ATmega328
 CloudBME/
 │
 ├── hardware/
-│   ├── schematics/
-│   └── pcb-design/
+│   ├── PCB_SCHEMATICS_DIAGRAM/
+│   └── PCB_BOARD_IMAGE/
 │
 ├── firmware/
 │   ├── src/
