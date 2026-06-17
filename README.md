@@ -84,6 +84,11 @@ CloudBME/
 ├── .gitignore/
 |
 |── CloudBME.ino/
+|
+├── Images/
+│   ├── cloudbme_dahboard/
+|   ├── cloudbme_real-time_data/
+│   └── cloudbme_alert_notification/
 │
 └── README.md
 ```
