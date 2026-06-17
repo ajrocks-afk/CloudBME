@@ -79,13 +79,32 @@ CloudBME/
 │   └── PCB_BOARD_IMAGE/
 │
 ├── firmware/
-│   ├── src/
 │   └── secrets.h      (not tracked)
 │
-├── docs/
+├── .gitignore/
+|
+|── CloudBME.ino/
 │
 └── README.md
 ```
+---
+---
+
+## 📊 Features in Action
+
+### 🖥️ Cloud Dashboard
+Our integrated dashboard allows for real-time visualization of environmental metrics. 
+
+<img width="4096" height="1884" alt="cloudbme_dashboard" src="https://github.com/user-attachments/assets/77411bda-3d22-4d64-b78e-c9d022c301d8" />
+
+### 🔔 Alerting & Notifications
+The system features automated alerts to keep you informed of environmental changes.
+* **Push Notifications:** Instant updates delivered to your device.
+* **Custom Alerts:** Triggered based on user-defined threshold values.
+<img width="1080" height="506" alt="cloudbme_real-time_data" src="https://github.com/user-attachments/assets/e8f0592e-4432-440a-9ff7-8ceb18dcb33e" />
+
+<img width="790" height="1599" alt="cloudebme_alert_notification" src="https://github.com/user-attachments/assets/ffcce103-7fb6-4c9f-bee7-44114afd9bf4" />
+
 ---
 
 ## ⚙️ Configuration
